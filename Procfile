@@ -1,1 +1,1 @@
-web: uWSGI uwsgi.ini
+web: uwsgi uwsgi.ini
